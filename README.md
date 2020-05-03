@@ -15,12 +15,3 @@ core concepts:
 other than that, [dcc](https://dash.plotly.com/dash-core-components), 
 dash [html](https://dash.plotly.com/dash-html-components)
 and [datatable](https://dash.plotly.com/datatable)
-
-### V2 - adding clientside features
-
-- [here](https://github.com/plotly/dash/issues/266) is how it came to be
-- [here](https://dash.plotly.com/clientside-callbacks) is how it is
-
-
-===
-watch out for [this](https://github.com/plotly/plotly_express/issues/145) possible bug
