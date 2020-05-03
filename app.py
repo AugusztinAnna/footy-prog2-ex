@@ -113,6 +113,7 @@ def update_output(value):
 
     return px.scatter(filt_df, x="x", y="y", color="team", hover_data=["type"], render_mode="svg")
 
+server = app.server
 
 if __name__ == "__main__":
 
